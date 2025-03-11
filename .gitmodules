@@ -1,24 +1,24 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/AceStudiosOfficial/backend.git
+	url = https://github.com/AceStudiosOffical/backend.git
     fetchRecurseSubmodules = true
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/AceStudiosOfficial/frontend.git
+	url = https://github.com/AceStudiosOffical/frontend.git
     fetchRecurseSubmodules = true
 [submodule "types"]
 	path = types
-	url = https://github.com/AceStudiosOfficial/types.git
+	url = https://github.com/AceStudiosOffical/types.git
     fetchRecurseSubmodules = true
 [submodule "common"]
 	path = common
-	url = https://github.com/AceStudiosOfficial/common
+	url = https://github.com/AceStudiosOffical/common
     fetchRecurseSubmodules = true
 [submodule "core"]
 	path = core
-	url = https://github.com/AceStudiosOfficial/core
+	url = https://github.com/AceStudiosOffical/core
     fetchRecurseSubmodules = true
 [submodule "discord-bot"]
 	path = discord-bot
-	url = https://github.com/AceStudiosOfficial/discord-bot
+	url = https://github.com/AceStudiosOffical/discord-bot
     fetchRecurseSubmodules = false
